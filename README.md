@@ -27,8 +27,8 @@ This project analyzes Airbnb data to understand pricing trends, revenue patterns
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
-![Filter View](slicer-filter.png)
+![Dashboard](dashboard airbnb.png)
+![Filter View](slicer.png)
 
 ## 📝 Note
 Dataset has been optimized for performance and file size. The dashboard includes slicers for interactive analysis.
